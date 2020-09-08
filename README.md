@@ -1,10 +1,10 @@
 # Stock_Price_Shock_By_Earning_Release
-Analyzed the earning events (EPS surprise) effect on stock prices, with stock prices data scraped from Yahoo finance or EOD Historical Data. 
+从Yahoo Finance或EOD Historical Data中提取了股价数据，分析了财报发布（盈利不符预测）对股价的影响
 
-# Cpp
-This folder contains codes in c++ to perform the main calculations.
+# Cpp文件夹
+该文件夹包含c++中执行主要计算的代码
 
-# Matlab
-This folder contains matlab codes to obtain earning information from Zacks.
+# Matlab文件夹
+该文件夹包含matlab代码，可从Zacks获取盈利信息
 
 
